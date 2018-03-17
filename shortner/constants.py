@@ -1,0 +1,6 @@
+FETCH_SHORT_URL_ENDPOINT = 'fetch/short-url/'
+FETCH_LONG_URL_ENDPOINT = 'fetch/long-url/'
+FETCH_SHORT_URLS_ENDPOINT = 'fetch/short-urls/'
+FETCH_LONG_URLS_ENDPOINT = 'fetch/long-urls/'
+FETCH_COUNT_ENDPOINT = 'fetch/count/'
+CLEAN_URL_ENDPOINT = 'clean-urls/'
